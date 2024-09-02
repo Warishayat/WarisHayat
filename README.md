@@ -1,13 +1,10 @@
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
-
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm `Waris Hayat</h1>
 <h3 align="center">A passionate Data Scientist / Ai Engineer from Pakistan</h3>
 
-<img align="right" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="coding_gif">
+<img align="right" width=400 src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="coding_gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warishayat&label=Profile%20views&color=0e75b6&style=flat" alt="warishayat" /> </p>
-
-<p align="left"> <a href="https://twitter.com/waris6t9" target="blank"><img src="https://img.shields.io/twitter/follow/waris6t9?logo=twitter&style=for-the-badge" alt="waris6t9" /></a> </p>
 
 - 🔭 I’m currently working on **Data Science & Artificial intelligence**
 
