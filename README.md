@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<h1 align="center">Hi 👋, I'm `Waris Hayat</h1>
-<h3 align="center">A passionate Data Scientist / Ai Engineer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Waris Hayat</h1>
+<h3 align="center">A passionate Data Scientist / AI Engineer from Pakistan</h3>
 
 <img align="right" width=400 src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="coding_gif">
 
